@@ -6,6 +6,7 @@
 .container {
   width: 100%;
   height: 100vh;
+  background: linear-gradient(90deg, pink 0%, transparent 0%);
 }
 
 .timer {
@@ -14,6 +15,3 @@
   line-height: 100vh;
 }
 
-.add-time {
-  display: none;
-}
